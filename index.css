@@ -1,0 +1,38 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+    background: rgb(231, 231, 231);
+    font-family: "Roboto Condensed", sans-serif;
+}
+.count{
+    font-size: 3rem;
+}
+
+button{
+    padding: 10px 16px;
+    background-color: #0ff;
+    border: 1px solid grey;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.min-Btn{
+    background-color: aqua;
+    color: #000;
+    font-size: 1rem;
+}
+.pls-Btn{
+    background-color: aqua;
+    color: #000;
+    font-size: 1rem;
+}
+
+.changeBy{
+    width: 5rem;
+    height: 2rem;
+    font-size: 1rem;
+    margin: 10px 10px;
+}
+
+
